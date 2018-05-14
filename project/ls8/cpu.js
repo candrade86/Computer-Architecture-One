@@ -6,7 +6,7 @@
  * Class for simulating a simple Computer (CPU & memory)
  */
 class CPU {
-
+    // super fast cpu
     /**
      * Initialize the CPU
      */
